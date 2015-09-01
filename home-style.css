@@ -6,7 +6,7 @@
 a,
 a:focus,
 a:hover {
-  color: #fff;
+  color: #fff
 }
 
 /* Custom default button */
@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-image: url("mount_cooper.jpg");
+  background-image: url("mountCooper.jpg");
   background-color: #333;
   background-repeat: no-repeat;
   background-position: center;
